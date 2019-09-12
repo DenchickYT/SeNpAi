@@ -96,6 +96,7 @@ module.exports = {
  }
 }
 
+bot.run(str(token))
 
 bot.on('ready', () => {
     console.log(`Запустился бот ${bot.user.username}`);

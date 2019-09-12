@@ -1,0 +1,4 @@
+discord.ру
+aiohttp
+websocketa
+chardet
